@@ -56,6 +56,7 @@ const MENU_LIST = [
       { text: "Sångbok", href: "/sangbok" },
       { text: "Dokument", href: "/dokument" },
       { text: "Ordboken", href: "/ordbok" },
+      { text: "Valens äventyr", href: "/valen" },
       // { text: "Bildarkiv", href: "/bildarkiv" },
     ],
   },
